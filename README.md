@@ -1,4 +1,4 @@
-# new-folder
+# Demo ERP
 
 To install dependencies:
 
