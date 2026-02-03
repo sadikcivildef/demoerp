@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(156, 209, 175);
+}
+
+.navbar{
+    background-color: rgb(24, 23, 23);
+    color: white;
+    margin: 20px 15px 8px 20px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    border-radius: 15px;
+    padding: 1rem 3rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.474);
+}
+.logo{
+    font-size: 24px;
+    font-weight:lighter;
+}
